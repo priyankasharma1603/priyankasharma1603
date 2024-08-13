@@ -2,9 +2,8 @@
 - 👀 I’m interested in full stack development(MERN)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...psgeeta16@gmail.com
+- 📫 How to reach me : https://priyankaportfoliopage.netlify.app/
 - 😄 Pronouns: ...she
-- ⚡ Fun fact: ...
 
 <!---
 priyankasharma1603/priyankasharma1603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
